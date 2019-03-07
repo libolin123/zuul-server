@@ -8,7 +8,7 @@ import javax.annotation.Resource;
 import java.util.List;
 
 /**
- * @author wuweifeng wrote on 2017/10/31.
+ * @author libolin wrote on 2018/10/31.
  */
 @Service
 public class PtUserRoleManager {

@@ -4,7 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 /**
- * @author libolin wrote on 2019/03/01
+ * @author libolin wrote on 2019/01/01
  */
 @Entity
 public class ZuulRouteEntity {

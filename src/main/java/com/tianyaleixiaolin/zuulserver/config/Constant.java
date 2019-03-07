@@ -1,7 +1,7 @@
 package com.tianyaleixiaolin.zuulserver.config;
 
 /**
- * @author wuweifeng wrote on 2018/10/30.
+ * @author libolin wrote on 2018/10/30.
  */
 public interface Constant {
     String USER_ID = "userId";

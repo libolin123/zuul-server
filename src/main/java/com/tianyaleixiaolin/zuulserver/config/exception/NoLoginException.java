@@ -4,7 +4,7 @@ package com.tianyaleixiaolin.zuulserver.config.exception;
 import com.netflix.zuul.exception.ZuulException;
 
 /**
- * @author wuweifeng wrote on 2017/10/27.
+ * @author libolin wrote on 2017/10/27.
  *
  * @author libolin update wrote on 2019/03/01
  */

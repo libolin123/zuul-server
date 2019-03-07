@@ -16,7 +16,7 @@ import static com.tianyaleixiaolin.zuulserver.config.Constant.CACHE_ROLE_MENU_KE
 
 
 /**
- * @author wuweifeng wrote on 2017/11/3.
+ * @author libolin wrote on 2017/11/3.
  * 角色和menu对应关系的缓存
  */
 @Component

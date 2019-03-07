@@ -17,7 +17,7 @@ import static org.springframework.cloud.netflix.zuul.filters.support.FilterConst
 
 /**
  * 返回的响应值
- * @author wuweifeng wrote on 2018/11/22.
+ * @author libolin wrote on 2018/11/22.
  */
 @Component
 public class ResponseFilter extends ZuulFilter {

@@ -5,7 +5,7 @@ import javax.persistence.Index;
 import javax.persistence.Table;
 
 /**
- * @author wuweifeng wrote on 2017/10/25.
+ * @author libolin wrote on 2018/10/25.
  * 菜单表
  */
 @Entity

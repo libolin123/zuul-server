@@ -17,7 +17,7 @@ import static org.springframework.http.HttpHeaders.AUTHORIZATION;
 import static org.springframework.http.HttpHeaders.CONTENT_TYPE;
 
 /**
- * @author wuweifeng wrote on 2018/11/21.
+ * @author libolin wrote on 2018/11/21.
  */
 @Component
 public class LogFilter extends ZuulFilter {

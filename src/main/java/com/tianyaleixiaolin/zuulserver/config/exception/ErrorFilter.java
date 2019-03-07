@@ -16,7 +16,7 @@ import java.io.PrintWriter;
 import static org.springframework.cloud.netflix.zuul.filters.support.FilterConstants.ERROR_TYPE;
 
 /**
- * @author libolin wrote on 2019/03/01
+ * @author libolin wrote on 2019/01/06
  */
 //@Component
 public class ErrorFilter extends ZuulFilter {

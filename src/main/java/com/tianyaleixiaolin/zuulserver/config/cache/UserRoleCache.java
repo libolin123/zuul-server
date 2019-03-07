@@ -18,7 +18,7 @@ import static com.tianyaleixiaolin.zuulserver.config.Constant.CACHE_USER_ROLE_KE
 
 
 /**
- * @author wuweifeng wrote on 2017/10/27.
+ * @author libolin wrote on 2017/10/27.
  * 用户角色信息缓存
  */
 @Component

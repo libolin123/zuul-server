@@ -3,7 +3,7 @@ package com.tianyaleixiaolin.zuulserver.core.model;
 import javax.persistence.Entity;
 
 /**
- * @author wuweifeng wrote on 2017/10/25.
+ * @author libolin wrote on 2018/10/25.
  * 菜单+角色表
  */
 @Entity

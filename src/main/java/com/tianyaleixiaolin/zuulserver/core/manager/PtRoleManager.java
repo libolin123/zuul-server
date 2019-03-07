@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author wuweifeng wrote on 2017/10/26.
+ * @author libolin wrote on 2018/10/26.
  */
 @Service
 public class PtRoleManager {

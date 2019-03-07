@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 import javax.annotation.Resource;
 
 /**
- * @author libolin wrote on 2019/03/01
+ * @author libolin wrote on 2019/01/01
  */
 @Configuration
 public class DynamicZuulConfig {

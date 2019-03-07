@@ -5,7 +5,7 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 /**
- * @author wuweifeng wrote on 2017/10/25.
+ * @author libolin wrote on 2018/10/25.
  * 角色表
  */
 @Entity

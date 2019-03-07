@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author wuweifeng wrote on 2018/1/11.
+ * @author libolin wrote on 2018/1/11.
  */
 @Component
 public class PtRoleMenuManager {

@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @author libolin wrote on 2019/03/01
+ * @author libolin wrote on 2019/01/06
  */
 @RestController
 public class ErrorHandlerController implements ErrorController {
